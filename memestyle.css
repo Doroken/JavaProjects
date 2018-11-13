@@ -1,0 +1,106 @@
+body {
+	background-image: url("pretty.png");
+	background-size: cover;
+	overflow: hidden;
+}
+
+#subhead {
+	position: absolute;
+	left: 30px;
+	top: 70px;
+}
+
+
+#dedede {
+	position: fixed;
+	text-align: center;
+	z-index: -1;
+	padding: 170px;
+}
+
+p {
+	font-family: "Comic Sans MS";
+	z-index: 1;
+}
+
+#toptext {
+	font-family: Impact;
+	-webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+	color: white;
+	width: 650px;
+    position: absolute;
+    top: 100px;
+    left: 340px;
+	font-size: 80px;
+}
+
+#bottomtext {
+	font-family: Impact;
+	text-align: center;
+	-webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+	color: white;
+	width: 610px;
+    position: absolute;
+    top: 600px;
+    left: 200px;
+	font-size: 50px;
+}
+
+
+
+#dab {
+	position: absolute;
+	text-align: center;
+	z-index: -1;
+	left: 900px;
+	width: 205px;
+}
+
+#delight {
+	position: absolute;
+	left: 900px;
+	width: 205px;
+	color: #ff00f2
+}
+
+
+
+#note {
+	position: absolute;
+	bottom: 20px;
+	left: 35px;
+}
+
+
+
+#home {
+	position: absolute;
+	left: 10px;
+	top: 200px;
+}
+
+#about {
+	position: absolute;
+	left: 10px;
+	top: 240px;
+}
+
+#discord {
+	position: absolute;
+	left: 10px;
+	top: 280px;
+}
+
+#msddd {
+	position: absolute;
+	bottom: 20px;
+	left: 320px;
+
+}
+
+#warrior {
+	position: absolute;
+	left: 200px;
+}
